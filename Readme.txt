@@ -1,8 +1,5 @@
-- Step1 Just write your list of items in the following way (in the "Items.txt"):
-Item1
-Item2
-Item3
-
-- Step2 Choose the .txt file containing the list
-- Step3 Make your choices in a knockout choice style
-- Step4 Results are saved in "ranking_results.txt"
+Quick Start
+- Write your items in a `.txt` file (one per line).
+- Open the file in the program.
+- Choose between pairs until all items are ranked.
+- Results are saved to `ranking_results.txt`.
